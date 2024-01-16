@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.3.27](https://github.com/k8sgpt-ai/k8sgpt/compare/v0.3.26...v0.3.27) (2024-01-16)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/aws/aws-sdk-go to v1.49.21 ([#868](https://github.com/k8sgpt-ai/k8sgpt/issues/868)) ([88002e7](https://github.com/k8sgpt-ai/k8sgpt/commit/88002e7e8c3e9c71365c44e136a6f1a8d35e1744))
+* **deps:** update module github.com/sashabaranov/go-openai to v1.18.1 ([#871](https://github.com/k8sgpt-ai/k8sgpt/issues/871)) ([6c62c1a](https://github.com/k8sgpt-ai/k8sgpt/commit/6c62c1a0fcd38cf9de8a99cda6f37b221740b9c8))
+* **deps:** update module github.com/sashabaranov/go-openai to v1.18.2 ([#874](https://github.com/k8sgpt-ai/k8sgpt/issues/874)) ([4de1bbd](https://github.com/k8sgpt-ai/k8sgpt/commit/4de1bbd6f72ca83d46ce5955bac50dffc99af03d))
+* **deps:** update module gopkg.in/yaml.v2 to v3 ([#866](https://github.com/k8sgpt-ai/k8sgpt/issues/866)) ([81d6604](https://github.com/k8sgpt-ai/k8sgpt/commit/81d660447d236cd03b75866871bb69f2c77c5c66))
+
+
+### Other
+
+* set correct license during package build ([#872](https://github.com/k8sgpt-ai/k8sgpt/issues/872)) ([42be51b](https://github.com/k8sgpt-ai/k8sgpt/commit/42be51bc8f625a35b1435c461d9a32c3c4905f1c))
+
 ## [0.3.26](https://github.com/k8sgpt-ai/k8sgpt/compare/v0.3.25...v0.3.26) (2024-01-14)
 
 
